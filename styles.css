@@ -96,7 +96,7 @@ font-family: 'Ubuntu', sans-serif;
 
 .section h1{
     text-align: center;
-    padding: 1rem;
+    padding: 0rem;
 }
 .ow{
     background-color: var(--off-white);
@@ -104,7 +104,7 @@ font-family: 'Ubuntu', sans-serif;
 
 .footer{
     background-color: var(--primary-color);
-    padding: 2rem 1 rem;
+    padding: 2rem 2 rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
