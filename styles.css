@@ -15,7 +15,7 @@ font-family: 'Ubuntu', sans-serif;
 {
    /** padding-left: 1rem;
     padding-right: 1rem;**/
-    padding: 1rem 1rem;
+    padding: 1.5rem 1rem;
 }
 
 .container-center
@@ -102,3 +102,15 @@ font-family: 'Ubuntu', sans-serif;
     background-color: var(--off-white);
 }
 
+.footer{
+    background-color: var(--primary-color);
+    padding: 2rem 1 rem;
+    text-align: center;
+    color: white;
+    border-top-right-radius: 1rem;
+    border-top-left-radius: 1rem;
+}
+
+.footer .link{
+    color: white;
+}
