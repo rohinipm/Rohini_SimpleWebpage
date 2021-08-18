@@ -15,7 +15,7 @@ font-family: 'Ubuntu', sans-serif;
 {
    /** padding-left: 1rem;
     padding-right: 1rem;**/
-    padding: 0rem 1rem;
+    padding: 1rem 1rem;
 }
 
 .container-center
@@ -33,7 +33,7 @@ font-family: 'Ubuntu', sans-serif;
 .link-primary
 {
     background-color: var(--primary-color);
-    border-radius: 0.5rem;
+    border-radius: 1rem;
     color: white;
 }
 
@@ -61,7 +61,7 @@ font-family: 'Ubuntu', sans-serif;
     background-color: var(--primary-color);
     color: white;
     padding: 1rem;
-    border-bottom-left-radius: 1 rem;
+    border-bottom-left-radius: 1rem;
 }
 
 .navigation .link{
