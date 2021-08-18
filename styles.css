@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&family=Ubuntu:wght@300&display=swap');
 
 :root{
-    --primary-color: #10B981;
+    --primary-color: #374151;
     --off-white:#D1D5DB;
     --dark-gray: #4B5563;
 }
@@ -15,7 +15,7 @@ font-family: 'Ubuntu', sans-serif;
 {
    /** padding-left: 1rem;
     padding-right: 1rem;**/
-    padding: 1rem 1rem;
+    padding: 0rem 1rem;
 }
 
 .container-center
@@ -98,7 +98,7 @@ font-family: 'Ubuntu', sans-serif;
     text-align: center;
     padding: 2rem;
 }
-.section ow{
+.ow{
     background-color: var(--off-white);
 }
 
