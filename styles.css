@@ -37,8 +37,8 @@ font-family: 'Ubuntu', sans-serif;
     color: white;
     padding-left: 1rem;
     padding-right: 1rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .link-secondary
@@ -48,8 +48,8 @@ font-family: 'Ubuntu', sans-serif;
     border: 1px solid var(--primary-color);
     padding-left: 1rem;
     padding-right: 1rem;
-    padding-top: 1rem;
-    padding-bottom: 1rem;
+    padding-top: 0.5rem;
+    padding-bottom: 0.5rem;
 }
 
 .hr{
@@ -112,7 +112,7 @@ font-family: 'Ubuntu', sans-serif;
 
 .footer{
     background-color: var(--primary-color);
-    padding: 2rem 2 rem;
+    padding: 2rem 2rem;
     text-align: center;
     color: white;
     border-top-right-radius: 1rem;
